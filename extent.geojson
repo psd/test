@@ -8,6 +8,8 @@
     "type": "name"
   },
 
+  "properties": {},
+
   "geometry": {
     "type": "MultiPolygon",
     "coordinates": [
